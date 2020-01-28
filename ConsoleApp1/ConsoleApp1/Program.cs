@@ -13,7 +13,7 @@ namespace ConsoleApp1
 
             Console.WriteLine("Hallo Git");
             Console.ReadKey();
-            Console.Writeline("Ciao");
+            Console.WriteLine("Ciao");
             Console.ReadKey();
         }
     }
